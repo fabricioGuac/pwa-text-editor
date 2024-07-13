@@ -14,11 +14,11 @@ In order to use this PWA, access the application using the provided link to the 
 
 ## Screenshot displaying the deployed app
 
-![Text-Edito](./assets/)
+![Text-Editor](./assets/pwa-text-editor-c7xk.onrender.com_.png)
 
 ## URL to the deployed app
 
-
+https://pwa-text-editor-c7xk.onrender.com/
 
 ## Credits
 
